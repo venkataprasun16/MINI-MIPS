@@ -1,5 +1,5 @@
-# Mini-MIPS-Processor & Hardware Acceleration
-This repository showcases my projects in computer organization and digital design—spanning foundational digital arithmetics, a complete multi-cycle 32-bit MIPS processor, FPGA hardware accelerators, and MIPS assembly algorithms. 
+# Mini MIPS Processor & Hardware Acceleration
+This repository showcases projects in computer organization and digital design—spanning foundational digital arithmetics, a complete multi-cycle 32-bit MIPS processor, FPGA hardware accelerators, and MIPS assembly algorithms. 
 
 All hardware IP was implemented in **Verilog**, synthesized with **Xilinx Vivado**, and validated on the **PYNQ-Z2 FPGA board**.
 
